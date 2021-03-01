@@ -1,2 +1,2 @@
 # WEB1
-Studying HTML, CSS
+Studying HTML, CSS, JavaScript
